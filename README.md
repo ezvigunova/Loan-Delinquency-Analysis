@@ -26,6 +26,7 @@ The very low coefficient value of 0.0004 has demonstrated that annual income has
 In order to better understand what people are at the highest risk of defaulting on their loans, it is necessary to create an average profile of the risky borrowers. In order to do that, we grouped all borrowers into 4 clusters by their annual income, credit score and employment length using k-means clustering algorithm. Each of the clusters represented a specific financial status, allowing us to group all borrowers into high risk, medium risk and low risk. These are the results of the clustering algorithm.
   
 Cluster centers:
+
  0. [[5.60964662e+04 5.20452941e+00 2.72588235e+00] – med income, high length, high score (Purple)
  1. [6.20802928e+06 4.11111111e+00 2.27777778e+00] – high income, high length, high score (Yellow)
  2. [1.30614932e+05 4.67032150e+00 2.47660286e+00] - low income, med length, low score (Blue)
